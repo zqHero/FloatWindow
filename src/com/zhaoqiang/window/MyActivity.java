@@ -28,6 +28,7 @@ public class MyActivity extends Activity {
             createView();
         }
 
+
     private void createView(){
 
         myFV = new MyFloatView(getApplicationContext());
